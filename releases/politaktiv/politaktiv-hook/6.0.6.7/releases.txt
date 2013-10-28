@@ -1,0 +1,20 @@
+ReleaseNotes:
+
+0.7 - 10.10.2011
+-----------------------------
+* login-und-konto-hook integriert
+
+0.6 - 10.10.2011
+-----------------------------
+* TermsOfUseHook integriert
+* MathCaptchaHook integriert
+* MathCapcha Konfiguration nach portal-ext.props verschoben 
+
+0.5 - 22.07.2011
+-----------------------------
+* Deaktivierte Communities für Admins sichtbar machen
+* PolitAktiv kann nicht mehr verlassen werden
+
+0.4 - 19.07.2011
+-----------------------------
+* Communities Suche angepasst

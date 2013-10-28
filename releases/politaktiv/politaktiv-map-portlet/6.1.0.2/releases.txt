@@ -1,0 +1,10 @@
+politaktiv-map-portlet ReleaseNotes:
+==============================
+
+6.1.0.2 - 09.04.2013
+--------------------
+* added pictures as backgrounds instead of map
+* added picture overlays as new map items beside markers
+* revise of user interface
+* added manual as web content
+* added openlayers libs to portlet code instead of remote loading it from openlayers.org
