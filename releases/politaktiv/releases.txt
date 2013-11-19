@@ -1,5 +1,10 @@
 Releases Politaktiv:
 ====================
+
+1.1.0 - 08.11.2013
+==========
+* politaktiv-forum-hook-6.1.0.5
+
 17.05.2013
 ==========
 * web-form-portlet-6.1.0.2
