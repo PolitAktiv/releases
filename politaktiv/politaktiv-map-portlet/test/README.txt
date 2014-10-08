@@ -1,2 +1,0 @@
-Ich hab den Ordner mal hinzugefügt, da wir um den Marker/Overlay Fehler zu finden, bestimmt ein paar Deployments machen müssten.
-Dann können wir uns sparen, jeweils ein Release zu machen. Macht ja auch Sinn, das sein zu lassen, wenn wir nicht mal wissen, ob der Release auch tut.
