@@ -1,0 +1,13 @@
+ReleaseNotes:
+
+6.2.1.2 - 11-04-2014
+-----------------------------
+- made portlet instanceable
+
+
+6.2.1.1 - 10-08-2014
+-----------------------------
+first version of politaktiv-easy-participation-portlet
+funcionality:
+- provides a button to request membership to/join a community
+- is designed to work consistent with politaktiv-community-select-portlet
