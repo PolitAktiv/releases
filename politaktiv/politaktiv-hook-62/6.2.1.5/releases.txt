@@ -1,8 +1,8 @@
 ReleaseNotes:
 
-6.2.1.5 - 04.11.2014
+6.2.1.5 - 13.11.2014
 --------------------
-gave easy-participation-button a random instance ID
+gave easy-participation-button an instance ID
 
 6.2.1.4 - 10.10.2014
 --------------------
