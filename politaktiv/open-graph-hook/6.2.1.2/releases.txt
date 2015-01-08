@@ -1,0 +1,12 @@
+6.2.1.2 - 08.01.2015
+--------------------
+* changed default behavior of og-image
+	-> dependency to politaktiv-default-theme: it provides some settings -> JournalContentUtil can access the 
+		journal articles -> admin can set default image for group (same procedure as with header-background-image)
+	-> when there is no image for the page and no default image for the group -> politaktiv-logo
+
+
+6.2.1.1 - 12.12.2014
+--------------------
+* initial
+* cloned from https://github.com/juliocamarero/facebook-liferay-integration.git
