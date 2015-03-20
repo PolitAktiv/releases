@@ -1,0 +1,7 @@
+ReleaseNotes:
+
+6.2.1.1 - 20.03.2015
+----------------
+initial release:
+  * sharing works for blog and asset publisher 
+  * specific entry gets shared instead of the whole page
