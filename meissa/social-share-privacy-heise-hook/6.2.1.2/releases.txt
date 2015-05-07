@@ -1,0 +1,11 @@
+ReleaseNotes:
+
+6.2.1.2 - 07.05.2015
+----------------
+* facebook button now actually shares a content instead of just recommending ist
+
+6.2.1.1 - 20.03.2015
+----------------
+initial release:
+  * sharing works for blog and asset publisher 
+  * specific entry gets shared instead of the whole page
