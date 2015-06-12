@@ -1,0 +1,63 @@
+politaktiv-layouts
+==================
+ReleaseNotes:
+
+6.2.1.12 - 12.06.2015
+--------------------
+* added container for smartphone-exclusive contents (pa-default-theme-support: 6.2.1.19)
+
+6.2.1.11 - 12.12.2014
+--------------------
+* added container helping to arrange the body of the tablet view
+
+
+6.2.1.10 - 05.12.2014
+--------------------
+* little refactorings
+
+6.2.1.8 - 14.11.2014
+--------------------
+* changed some Layout names
+
+
+6.2.1.8 - 04.11.2014
+--------------------
+* added 3 more templates
+* deleted older templates
+
+
+6.2.1.7 - 19.08.2014
+--------------------
+* fixed width of 3 main columns
+
+6.2.1.6 - 19.08.2014
+--------------------
+* added Thumbnails for new Layouts
+* bugfix: wap templates are available now
+
+6.2.1.5 - 14.08.2014
+--------------------
+A-5 realisiert: 3 neue Layouts
+Needs politaktiv-default-theme, because CSS necessairy for specifications 
+
+6.2.0.5 - 04.05.2014
+------------------
+* Migrated all all Layouts to new LR6.2 way
+
+6.2.0.4 - 02.03.2014
+------------------
+* LiferayVersion 6.2 fixed
+
+6.2.0.3 - 27.02.2014
+------------------
+* LiferayVersion 6.1
+* added 12 / 75 / 12 Layout
+
+0.2 - 14.09.2012
+----------------
+* LiferayVersion 6.1 fixed
+
+
+0.1 - 29.07.2011
+----------------
+* renamed Author & Layouts
