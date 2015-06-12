@@ -1,0 +1,84 @@
+politaktiv-theme ReleaseNotes:
+==============================
+
+6.2.1.18 2015-12-06
+* smartphone-design including a smartphone-exclusive content box
+* code refactoring
+
+6.2.1.18 2015-14-04
+* improved tablet design
+
+6.2.1.17 2015-28-01
+* added carousel styles 
+
+6.2.1.16 - 2015-08-01
+* added opengraph-default image settings to make the journal articles available for the open-graph-hook
+
+6.2.1.15 - 2014-12-12
+* styled tablet body as specified
+
+6.2.1.14 - 2014-12-05
+* intermediate fix for faulty custom layouts (Responsive Design)<-- does not satisfy requirements yet
+
+6.2.1.13 - 2014-11-26
+* intermediate solution for faulty header <-- does not satisfy requirements yet
+
+6.2.1.12 - 2014-11-04
+* customizable background-picture for Diskussionskreis-Header
+
+6.2.1.11 - 2014-09-04
+* fixed mobile view of navbar
+
+6.2.1.10 - 2014-08-2
+* distance between menu bar items is reduced 
+* header h2, h3 issue is fixed (structural bug in template)
+
+6.2.1.9 - 2014-08-21
+* IST-Topbar is on the very top of the page
+
+
+6.2.1.8 - 2014-08-20
+* revert: IST-Topbar - now static again
+* fixed width of the 3 main columns in layout
+
+6.2.1.7 - 2014-08-19
+--------------------
+* new font-size
+* dynamic IST-Topbar (concerning width)
+* word wrapping realised
+
+6.2.1.6
+---------------------
+* Added CSS that is used to fulfill A-5: 3 new Layouts
+* Changed width of certain Layout Columns, 
+	because bootstrap cannot handle them as we want it 
+
+
+6.2.1.5 - 2014-08-02
+---------------------
+* realized DesignRequs. A-4.1, A-4.2, A-4.3, A4.4, A-4.5, A-4.7, A-4.8
+
+6.2.1.4 - 2014-07-23
+---------------------
+* fixed theme responsiveness
+* enabled color themes
+* realized DesignRequs. A-1, A-2, A-3 (needs requ. refinement), A-4.1, 
+  A-4.2, A-4.3, A-4.4, A-4.5 (partially), A-4.6, A-4.7, A-4.8, A-6  
+
+6.2.1.3 - 2014-07-04
+---------------------
+* Fixed java1.6 compat.
+
+6.2.0.3 - 2014-07-02
+---------------------
+workaround for Language-Portlet error, see https://jira.intra.politaktiv.org/browse/PA-646
+
+6.2.0.2 - 2014-02-21
+------------------
+migration to 6.2.1
+contains language-portlet and footer
+added css for login
+
+6.2.0.1 - 21.02.2014
+--------------------
+initial release after forking liferay classic
