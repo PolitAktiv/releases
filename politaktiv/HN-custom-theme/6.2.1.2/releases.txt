@@ -1,6 +1,10 @@
 politaktiv-theme ReleaseNotes:
 ==============================
 
+6.2.1.2 2015-18-06
+* first decent version
+
+
 6.2.1.1 2015-17-06
 * initial commit
 * first designs
