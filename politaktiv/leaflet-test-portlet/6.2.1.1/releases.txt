@@ -1,0 +1,5 @@
+ReleaseNotes:
+
+6.2.1.1 - 09.07.2015
+--------------------
+first test version for plugin-integration testing
