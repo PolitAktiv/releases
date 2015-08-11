@@ -1,0 +1,9 @@
+politaktiv-isny-theme ReleaseNotes:
+==============================
+
+11.08.2015
+*rework after test
+
+06.08.2015
+*first version for testing on intermediate
+
