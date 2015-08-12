@@ -1,0 +1,7 @@
+politaktiv-isny-theme ReleaseNotes:
+==============================
+
+12.08.2015
+------------
+copied politaktiv-isny-theme
+changed some styles
