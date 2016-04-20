@@ -1,0 +1,7 @@
+# *** Releases Log ***
+
+* 2016-22-03
+  * initial version, ready for review
+  
+* 2016-20-04
+  * rework after review
