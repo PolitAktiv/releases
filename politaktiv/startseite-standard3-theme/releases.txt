@@ -1,0 +1,10 @@
+# *** Releases Log ***
+
+* 2016-13-05
+  * first version, derivate of pa-standard-3-theme
+
+* 2016-16-06
+  * further improvements
+  * bugfix: anchor
+  * bugfix: click on logo now leads back to main page
+  * adaption to the code of startseite-theme
