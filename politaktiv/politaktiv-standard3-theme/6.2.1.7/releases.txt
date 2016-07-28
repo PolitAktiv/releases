@@ -1,0 +1,26 @@
+# *** Releases Log ***
+
+* 2016-22-03
+  * initial version, ready for review
+  
+* 2016-20-04
+  * rework after review
+
+* 2016-13-05
+  * further improvements, intended for release
+
+* 2016-16-06 - release 6.2.1.4
+  * further improvements
+  * bugfix: anchor
+  * bugfix: click on logo now leads back to main page
+  * adaption to the code of startseite-theme
+
+* 2016-23-06 - release 6.2.1.5
+  * fixed anchors - now they only behave like text in webcontents
+  * fixed padding for mobile views
+
+ * 2016-25-07 - release 6.2.1.6
+  * improved anchors 
+
+ * 2016-28-07 - release 6.2.1.7
+  * fixed anchor bug
